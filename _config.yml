@@ -5,11 +5,15 @@ theme: just-the-docs
 permalink: /:title
 
 plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-paginate
-  - jekyll-seo-tag
   - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-loading-lazy
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-tidy
+  - jekyll-watch
 
 paginate: 10
 paginate_path: "/page/:num/"
