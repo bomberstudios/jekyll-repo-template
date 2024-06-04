@@ -1,0 +1,19 @@
+# Site data
+title: Welcome to Jekyll
+description: Project description
+theme: jekyll-theme-cayman
+permalink: /:title
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-default-layout
+
+paginate: 10
+paginate_path: "/page/:num/"
+
+exclude:
+  - docker-compose.yml
+  - README.md
