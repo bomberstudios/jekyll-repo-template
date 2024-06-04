@@ -2,7 +2,7 @@
 
 A template for Jekyll 4, deployed to GitHub Pages using GitHub Actions, with local development using Docker.
 
-This project supports plugins and other features that are not available in the default GitHub Pages environment.
+This project supports plugins and other features that are not available in the default GitHub Pages environment. For example, it installs the `jekyll-default-layout` plugin to set a default layout for all pages.
 
 It uses the excellent [Just the Docs](https://just-the-docs.com/) theme, check their docs for more information on how to customize it.
 
