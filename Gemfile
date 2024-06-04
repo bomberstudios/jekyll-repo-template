@@ -5,5 +5,5 @@ gem "jekyll-feed"
 gem "jekyll-redirect-from"
 gem "jekyll-paginate"
 gem "jekyll-seo-tag"
-gem "jekyll-theme-cayman"
+gem "just-the-docs"
 gem 'jekyll-default-layout'

@@ -1,7 +1,7 @@
 # Site data
 title: Welcome to Jekyll
 description: Project description
-theme: jekyll-theme-cayman
+theme: just-the-docs
 permalink: /:title
 
 plugins:

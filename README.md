@@ -2,6 +2,8 @@
 
 A template for Jekyll 4, deployed to GitHub Pages using GitHub Actions, with local development using Docker.
 
+It uses the excellent [Just the Docs](https://just-the-docs.com/) theme, check their docs for more information on how to customize it.
+
 ## How to use
 
 - Create a new repository using this template.
@@ -13,7 +15,7 @@ A template for Jekyll 4, deployed to GitHub Pages using GitHub Actions, with loc
   ```
 
 - Enable GitHub Pages in your repository settings, making sure it's set to use GitHub Actions as the source.
-- Edit `_config.yml` with your own data.
+- Edit `_config.yml` with your own data (see <https://just-the-docs.com/docs/configuration/> for more information).
 - Edit `index.html` with your own content.
 - Add more posts in `_posts`, as needed.
 - Push to your repository.
