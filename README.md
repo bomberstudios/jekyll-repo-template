@@ -2,13 +2,13 @@
 
 A template for Jekyll 4, deployed to GitHub Pages using GitHub Actions, with local development using Docker.
 
+This project supports plugins and other features that are not available in the default GitHub Pages environment.
+
 It uses the excellent [Just the Docs](https://just-the-docs.com/) theme, check their docs for more information on how to customize it.
 
 ## How to use
 
-- Create a new repository using this template.
-
-  You can click the 'Use this template' button on the repository page, or use `degit` to use the template from the command line:
+- Create a new repository using this template by clicking the 'Use this template' button, or running `degit` from a command line:
 
   ```shell
   npx degit bomberstudios/jekyll-repo-template my-new-repo
